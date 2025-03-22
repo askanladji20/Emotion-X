@@ -36,7 +36,7 @@ def main():
     )
 
     # Set page title and add padding
-    st.title("Mental Health Assesment")
+    st.title("Emotion - X")
     st.write("Upload an image to predict the emotion.")
     st.write("")
 
